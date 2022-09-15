@@ -1,12 +1,12 @@
 ## Hey there, I'm Lillian! 👋
 
-### :magnifying_glass: About Me: 
+### 🔍: About Me: 
 I am an incoming second year at UC San Diego studying computer science 
 - 🌱 I'm currently learning several languages, including HTML/CSS/JavaScript and Kotlin, as well as frameworks/libraries, including React.js 
 - 🕐 In my free time, I enjoy hiking, spending time with family and friends, playing rhythm games, and knitting 
-- 🌟 Fun fact: I love Smiskis
+- 🌟 Fun fact: I love [Smiskis](https://smiski.com/e/smiski/)
 
-### Connect with me: 
+### Reach me at: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lillianmho/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
