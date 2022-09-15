@@ -1,12 +1,10 @@
 ## Hey there, I'm Lillian! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-### About Me: 
+### :magnifying_glass: About Me: 
 I am an incoming second year at UC San Diego studying computer science 
-- 🌱 I'm currently learning various languages, including HTML/CSS/JavaScript and Kotlin, as well as frameworks/libraries, including React.js 
+- 🌱 I'm currently learning several languages, including HTML/CSS/JavaScript and Kotlin, as well as frameworks/libraries, including React.js 
 - 🕐 In my free time, I enjoy hiking, spending time with family and friends, playing rhythm games, and knitting 
-- 🌟 Fun fact: I have 4 siblings!
+- 🌟 Fun fact: I love Smiskis
 
 ### Connect with me: 
 <div id="badges">
