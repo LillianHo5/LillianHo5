@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+### About Me: 
+I am an incoming second year at UC San Diego studying computer science 
+- 🌱 I'm currently learning various languages, including HTML/CSS/JavaScript and Kotlin, as well as frameworks/libraries, including React.js 
+- 🕐 In my free time, I enjoy hiking, spending time with family and friends, playing rhythm games, and knitting 
+- 📬 Contact me here: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lillianmho/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a> 
+  <a href="mailto:holillian5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> 
+  </a>
 </div>
-
-### About Me: 
-I am an incoming second year at UC San Diego studying computer science 
-- :seedling: I'm currently learning various languages, including HTML/CSS/JavaScript and Kotlin, as well as frameworks/libraries, including React.js 
-- :clock: In my free time, I enjoy hiking, spending time with family and friends, playing rhythm games, and knitting 
-- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lillianmho/)
 
 ### My GitHub Stats:
 
