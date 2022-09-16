@@ -18,8 +18,6 @@ I am an incoming second year at UC San Diego studying computer science
 
 ### My GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LillianHo5&hide=contribs,prs,stars)
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LillianHo5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LillianHo5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=contribs,prs,stars" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LillianHo5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
