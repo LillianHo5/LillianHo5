@@ -4,7 +4,7 @@
 I am a second year at UC San Diego studying computer science! 
 - 🌱 I'm currently learning several languages, including HTML/CSS/JavaScript, Kotlin, and Python, as well as frameworks/libraries, including React.js 
 - 🕐 In my free time, I enjoy hiking, spending time with family and friends, playing rhythm games, and knitting 
-- 🌟 Fun fact: I love [Smiskis](https://smiski.com/e/smiski/)
+- 🌟 Fun fact: I love <a href="https://smiski.com/e/smiski/" target="_blank">Smiskis</a>
 
 ### Reach me at: 
 <div id="badges">
