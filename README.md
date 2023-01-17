@@ -2,9 +2,9 @@
 
 ### 🔍: About Me: 
 I am a second year at UC San Diego studying computer science! 
-- 🌱 I'm currently learning several languages, including HTML/CSS/JavaScript, Kotlin, and Python, as well as frameworks/libraries, including React.js 
-- 🕐 In my free time, I enjoy hiking, spending time with family and friends, playing rhythm games, and knitting 
-- 🌟 Fun fact: I love <a href="https://smiski.com/e/smiski/" target="_blank">Smiskis</a>
+- 🌱 I'm currently learning several languages, including TypeScript, Python, and SQL as well as frameworks/libraries, including React.js and Svelte 
+- 🕐 In my free time, I enjoy hiking, spending time with family and friends, playing rhythm games, and knitting.
+- 🌟 Fun fact: I love <a href="https://smiski.com/e/smiski/" target="_blank">Smiskis</a>! I currently have 26 in my collection.
 
 ### Reach me at: 
 <div id="badges">
