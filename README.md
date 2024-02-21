@@ -3,7 +3,7 @@
 ### 🔍: About Me: 
 I am a student at UC San Diego studying computer science (and cognitive science)! 
 - 🕐 In my free time, I enjoy hiking, spending time with family and friends, playing rhythm games, and knitting.
-- 🌟 Fun fact: I love <a href="https://smiski.com/e/smiski/" target="_blank">Smiskis</a>! I currently have 46 in my collection.
+- 🌟 Fun fact: I love <a href="https://smiski.com/e/smiski/" target="_blank">Smiskis</a>! I currently have 50+ in my collection.
 
 ### Reach me at: 
 <div id="badges">
