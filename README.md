@@ -6,7 +6,7 @@ I am a student at UC San Diego studying computer science (and cognitive science)
 - 🌟 Fun fact: I love <a href="https://smiski.com/e/smiski/" target="_blank">Smiskis</a>! I currently have 50+ in my collection.
 
 ### Reach me at: 
-**Email**: holillian5[at]gmail[dot]com 
+**Email**: holillian8[at]gmail[dot]com 
 
 ### My GitHub Stats:
 
