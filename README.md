@@ -6,14 +6,7 @@ I am a student at UC San Diego studying computer science (and cognitive science)
 - 🌟 Fun fact: I love <a href="https://smiski.com/e/smiski/" target="_blank">Smiskis</a>! I currently have 50+ in my collection.
 
 ### Reach me at: 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/lillianmho/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-  </a> 
-  <a href="mailto:holillian5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> 
-  </a>
-</div>
+**Email**: holillian5[at]gmail[dot]com 
 
 ### My GitHub Stats:
 
